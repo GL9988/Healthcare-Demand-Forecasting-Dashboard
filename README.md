@@ -47,15 +47,21 @@ This project visualizes over 13,000 anonymized patient records to support data-d
 
 ## 🔍 Dashboard Preview
 
-<p align="center">
-  <img src="assets/dashboard_cover.png" alt="Healthcare Dashboard Cover" width="85%">
-</p>
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/77a6682f-dbd1-417f-87bc-2e0fa21771b6" />
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/6e71ff87-56db-40a7-8aed-d60afb170486" />
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/05bab5c8-ae4d-4137-b996-5e632f4d6f05" />
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/d7cc28eb-f417-40ad-9144-2056ff4467df" />
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/e6e033d5-c9d0-437e-bae8-8fb98aff7639" />
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/b83e11e2-bf83-4487-9e3e-9cbd8909faf5" />
+
+
+
+
 
 ---
 
-## ▶️ Try the Dashboard  
-📍 Tableau Public: [Insert Your Tableau Link Here]  
-📧 For access or collaboration: [gl200@duke.edu](mailto:gl200@duke.edu)
+
+📧 For access or collaboration: [topguoli@gmail.com](mailto:topguoli@gmail.com)
 
 ---
 
