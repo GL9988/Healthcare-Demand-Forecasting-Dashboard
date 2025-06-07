@@ -6,7 +6,7 @@ Interactive Tableau dashboard suite designed to help healthcare decision-makers 
 ## 🚀 Project Summary  
 As part of a business analytics project, I developed a series of Tableau dashboards along with three teammates, analyzing 13,000+ patient records across the U.S. The goal was to translate raw data into actionable insights for healthcare providers, focusing on patient behavior, specialty performance, and operational delays.  
 
-📈 The dashboards support real-world decisions like:  
+📈 The dashboards may support real-world decisions like:  
 - **Resource allocation by state and age group**  
 - **Consultation and lab time optimization**  
 - **ICD-10-based diagnosis tracking**  
